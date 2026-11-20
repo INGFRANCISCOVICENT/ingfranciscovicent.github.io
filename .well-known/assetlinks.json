@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.aquaverde.app",
+      "sha256_cert_fingerprints": [
+        "73:C2:D0:77:30:36:A3:87:96:05:31:43:9A:1C:25:28:48:54:90:B8:42:89:CC:66:83:62:E6:B1:A0:65:57:EE"
+      ]
+    }
+  }
+]
